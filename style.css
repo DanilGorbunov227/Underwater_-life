@@ -1,0 +1,48 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+}
+header {
+  background:SkyBlue;
+  font-size:20px;
+}
+header img {
+  width:70px;
+  height:70px;
+}
+header a {
+ text-decoration:none;
+ border-radius: 10px;
+ border:1px solid black;
+ padding:3px;
+ background:white;
+}
+h1 {
+  font-size:50px;
+  color:SlateBlue
+}
+h2 {
+  font-size:40px;
+}
+main img {
+  width:450px;
+  height:300px;
+}
+footer {
+  background:SkyBlue;
+  font-size:20px;
+}
+main p {
+  font-size:27px;
+  border:2px solid MediumBlue;
+  background:DeepSkyBlue;
+  border-radius:25px;
+}
+main a {
+ text-decoration:none;
+ border-radius: 10px;
+ border:1px solid FireBrick;
+ padding:5px;
+ background:LightCoral;
+ font-size:31px; 
+}
