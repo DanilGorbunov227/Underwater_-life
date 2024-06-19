@@ -1,9 +1,10 @@
 body {
   font-family: arial;
   text-align: center;
+  background:LightCyan;
 }
 header {
-  background:SkyBlue;
+  background:Khaki;
   font-size:20px;
 }
 header img {
@@ -27,20 +28,20 @@ h2 {
 main img {
   width:450px;
   height:300px;
+  border-radius:20px;
 }
 footer {
-  background:SkyBlue;
+  background:Khaki;
   font-size:20px;
 }
 main p {
   font-size:27px;
-  border:2px solid MediumBlue;
-  background:DeepSkyBlue;
-  border-radius:25px;
+  border:2px solid RoyalBlue;
+  background:LightBlue;
 }
 main a {
  text-decoration:none;
- border-radius: 10px;
+ border-radius: 40px;
  border:1px solid FireBrick;
  padding:5px;
  background:LightCoral;
